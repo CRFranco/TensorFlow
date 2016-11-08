@@ -1,6 +1,6 @@
 # TensorFlow
 
-Machine Learning example using TensorFlow, based on the implementation of the book "Tensorflow for machine Intelligence". 
+Machine Learning example using TensorFlow, based on the implementation contained in the book "Tensorflow for machine Intelligence". 
 Got about 81% accuracy after my changes.
 
 Data obtained from https:
